@@ -1,6 +1,6 @@
 # 🎯 TaskTracker
 
-Simple TO-DO code-along Application, it uses local-storage to save your TO-DOS!
+Simple to-do code-along App. It allows users to add, manage, and track their tasks efficiently. The app saves tasks in the browser's local storage, ensuring they remain available even after closing the page 😎
 
 ## 🚀 Demo
 👉 [See on GH Pages](https://Mattewww.github.io/tasktracker)
